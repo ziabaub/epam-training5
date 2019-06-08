@@ -1,0 +1,6 @@
+
+ksquid:S1192,"HDefine a constant instead of duplicating this literal "After :" 5 times.(¾§ÝÐùÿÿÿÿ8ÝÔŒÕ²-
+lsquid:S1192*"IDefine a constant instead of duplicating this literal "Before :" 5 times.(¬ñšáþÿÿÿÿ8ÝÔŒÕ²-
+psquid:S00116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åë”Þ8ŸžåÓ²-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€Áè‘8Ô©ÛÓ²-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“–ýþ8õÍšÕ²-

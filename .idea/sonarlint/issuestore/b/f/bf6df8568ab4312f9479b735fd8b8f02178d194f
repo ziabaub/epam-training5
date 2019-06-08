@@ -1,0 +1,6 @@
+
+É%squid:RedundantThrowsDeclarationCheck>"‹Remove the declaration of thrown exception 'com.task.exceptions.main.exception.ReaderException', as it cannot be thrown from method's body.(ıøœüûÿÿÿÿ8‡ãÃÔ²-
+|squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "number".(ŞÔá§8éãöÁ²-
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "number".(Í›áØùÿÿÿÿ8éãöÁ²-
+squid:S1488+"^Immediately return this expression instead of assigning it to the temporary variable "number".(ÿÉËïşÿÿÿÿ8éãöÁ²-
+€squid:S14886"]Immediately return this expression instead of assigning it to the temporary variable "value".(·ˆè ÿÿÿÿÿ8½ª¦Õ²-
